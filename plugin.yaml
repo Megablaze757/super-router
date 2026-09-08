@@ -1,0 +1,5 @@
+name: super_router           # REQUIRED - must match index folder name exactly
+title: Super Router
+description: Auto-switch between multiple API keys, providers, and models.
+version: 2.0.0
+author: Your Name
